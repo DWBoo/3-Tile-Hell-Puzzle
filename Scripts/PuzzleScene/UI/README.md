@@ -1,6 +1,6 @@
 # 개요
 ![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/c33a5378-d6d7-4dc2-a337-e23130ad3403)
-![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/b4b86bf8-a5b8-4c44-87f3-d82779a2487a)
+![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/b4b86bf8-a5b8-4c44-87f3-d82779a2487a)</br>
 게임 클리어 혹은 실패 시 결과 팝업 활성화
 
 # 기능 설명
