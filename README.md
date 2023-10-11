@@ -1,3 +1,8 @@
+![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/cc77e83f-767b-4417-969e-75ec9a613821)
+![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/b7bef5f8-a039-45ff-acb5-54b062c1a05a)
+![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6455eec4-ec92-4663-9122-541beb5f8635)
+[게임 영상](https://youtu.be/CyWwqjfLzDo?si=CLeTyFNCYotpDWoI)
+
 # [타일 배치 씬](https://github.com/DWBoo/3-Tile-Hell-Puzzle/tree/main/Scripts/PuzzleDesignScene)
 게임에 사용 되는 씬들은 모두 MVC 패턴을 사용 (설계 및 구현이 되어 있는 상태에서 디자인 기능만 구현)
 * SceneController는 로직을 담당
