@@ -1,4 +1,8 @@
 <img src="https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6455eec4-ec92-4663-9122-541beb5f8635" width="50%" height="50%">
+<img src="https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6455eec4-ec92-4663-9122-541beb5f8635" width="50%" height="50%">
+<img src="https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6455eec4-ec92-4663-9122-541beb5f8635" width="50%" height="50%">
+<img src="https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6455eec4-ec92-4663-9122-541beb5f8635" width="50%" height="50%"></br>
+
 ![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6455eec4-ec92-4663-9122-541beb5f8635)
 ![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/cc77e83f-767b-4417-969e-75ec9a613821)
 ![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/b7bef5f8-a039-45ff-acb5-54b062c1a05a)
