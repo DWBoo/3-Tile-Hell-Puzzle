@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
+  
 [게임 영상](https://youtu.be/CyWwqjfLzDo?si=CLeTyFNCYotpDWoI)
+
 </p>
 
 # [타일 배치 씬](https://github.com/DWBoo/3-Tile-Hell-Puzzle/tree/main/Scripts/PuzzleDesignScene)
