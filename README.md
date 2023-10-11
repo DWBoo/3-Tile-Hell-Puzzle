@@ -5,7 +5,9 @@
 <img src="https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/7a9d1178-6fb1-4fb3-b703-4a6378d64a53" width="20%" height="30%">
 </p>
 
+<p align="center">
 [게임 영상](https://youtu.be/CyWwqjfLzDo?si=CLeTyFNCYotpDWoI)
+</p>
 
 # [타일 배치 씬](https://github.com/DWBoo/3-Tile-Hell-Puzzle/tree/main/Scripts/PuzzleDesignScene)
 게임에 사용 되는 씬들은 모두 MVC 패턴을 사용 (설계 및 구현이 되어 있는 상태에서 디자인 기능만 구현)
