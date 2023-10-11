@@ -1,6 +1,7 @@
 ![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/cc77e83f-767b-4417-969e-75ec9a613821)
 ![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/b7bef5f8-a039-45ff-acb5-54b062c1a05a)
 ![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6455eec4-ec92-4663-9122-541beb5f8635)
+![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/7a9d1178-6fb1-4fb3-b703-4a6378d64a53)</br>
 [게임 영상](https://youtu.be/CyWwqjfLzDo?si=CLeTyFNCYotpDWoI)
 
 # [타일 배치 씬](https://github.com/DWBoo/3-Tile-Hell-Puzzle/tree/main/Scripts/PuzzleDesignScene)
