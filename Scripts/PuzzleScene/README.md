@@ -1,7 +1,6 @@
 # 개요
-![](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/76229c95-44ea-4048-a0f0-85b92d395dd9){:width="20%" height="20%"}
-![](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6249d38c-c4cc-4433-856f-a01f0dca3376){:width="20%" height="20%"}
-
+![](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/76229c95-44ea-4048-a0f0-85b92d395dd9)
+![](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/6249d38c-c4cc-4433-856f-a01f0dca3376)
 보드의 퍼즐을 선택하는 순서대로 진행이 되어야 하기 때문에 퍼즐과 관련 된 부분을 이벤트로 Queue에 넣어 관리하고 연속적으로 퍼즐을 선택해도 순차적으로 처리 되도록 구현
 
 # 문제 발생
