@@ -5,10 +5,8 @@
 <img src="https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/7a9d1178-6fb1-4fb3-b703-4a6378d64a53" width="20%" height="30%">
 </p>
 
-<p align="center">
-  
-[게임 영상](https://youtu.be/CyWwqjfLzDo?si=CLeTyFNCYotpDWoI)
-
+<p align="center">  
+게임 영상: https://youtu.be/CyWwqjfLzDo?si=CLeTyFNCYotpDWoI
 </p>
 
 # [타일 배치 씬](https://github.com/DWBoo/3-Tile-Hell-Puzzle/tree/main/Scripts/PuzzleDesignScene)
