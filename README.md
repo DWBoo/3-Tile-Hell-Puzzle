@@ -1,9 +1,3 @@
-<p align="center">
-  
-  # 헬 퍼즐(3-타일 퍼즐 게임)
-  
-</p>
-
 # [타일 배치 씬](https://github.com/DWBoo/3-Tile-Hell-Puzzle/tree/main/Scripts/PuzzleDesignScene)
 게임에 사용 되는 씬들은 모두 MVC 패턴을 사용 (설계 및 구현이 되어 있는 상태에서 디자인 기능만 구현)
 * SceneController는 로직을 담당
