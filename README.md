@@ -1,5 +1,5 @@
 <p align="center">
-  헬 퍼즐(3-타일 퍼즐 게임)
+  ## 헬 퍼즐(3-타일 퍼즐 게임)
 </p>
 
 # [타일 배치 씬](https://github.com/DWBoo/3-Tile-Hell-Puzzle/tree/main/Scripts/PuzzleDesignScene)
