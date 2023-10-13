@@ -1,6 +1,10 @@
 # 개요
 ![](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/76229c95-44ea-4048-a0f0-85b92d395dd9)
 보드의 퍼즐을 선택하는 순서대로 진행이 되어야 하기 때문에 퍼즐과 관련된 부분을 이벤트로 Queue에 넣어 관리하고 연속적으로 퍼즐을 선택해도 순차적으로 처리 되도록 구현
+![image](https://github.com/DWBoo/3-Tile-Hell-Puzzle/assets/147593910/b187e3f4-7b40-44fa-bab0-d4c613e5ea85)</br>
+들어온 이벤트를 순차적으로 처리하면서 해당하는 이벤트에 맞는 부분에 각 연출 구현을 담당
+
+
 
 # 문제 발생
 퍼즐 처리 시스템에 게임 연출을 추가하니 문제가 발생.
